@@ -4,10 +4,10 @@ Analyzing B_corps business data from B-labs
 ## Scope of Analysis
 
 ## Tools Used
-Python
-Jupyter Notebook
-Sci-Kit Learn - Unsupervised Learning 
-Tableau
+- Python
+- Jupyter Notebook
+- Sci-Kit Learn - Unsupervised Learning 
+- Tableau
 
 ## What is a B Corp
 
@@ -31,6 +31,8 @@ B Labs provide a data set through dataworld
 
 ## Contact information
 Stephanie Juniper
+
+
 stephanie.m.juniper@gmail.com
 
 
