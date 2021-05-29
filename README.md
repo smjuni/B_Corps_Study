@@ -11,11 +11,12 @@ Analyzing B_corps business data from B-labs
 
 ## What is a B Corp
 
-"Certified B Corporations are businesses that meet the highest standards of verified social and environmental performance, public transparency, and legal accountability to balance profit and purpose. B Corps are accelerating a global culture shift to redefine success in business and build a more inclusive and sustainable economy.
+<i> "Certified B Corporations are businesses that meet the highest standards of verified social and environmental performance, public transparency, and legal accountability to balance profit and purpose. B Corps are accelerating a global culture shift to redefine success in business and build a more inclusive and sustainable economy.
 
 Society’s most challenging problems cannot be solved by government and nonprofits alone. The B Corp community works toward reduced inequality, lower levels of poverty, a healthier environment, stronger communities, and the creation of more high quality jobs with dignity and purpose. By harnessing the power of business, B Corps use profits and growth as a means to a greater end: positive impact for their employees, communities, and the environment.
 
-B Corps form a community of leaders and drive a global movement of people using business as a force for good. The values and aspirations of the B Corp community are embedded in the B Corp Declaration of Interdependence."
+B Corps form a community of leaders and drive a global movement of people using business as a force for good. The values and aspirations of the B Corp community are embedded in the B Corp Declaration of Interdependence." 
+</i>
 
 To read more about the BCorp Mission and qualifications, please visit <a href="https://bcorporation.net/about-b-corps">bcorporation.net</a>
 
