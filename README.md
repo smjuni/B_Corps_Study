@@ -4,16 +4,17 @@ Analyzing B_corps business data from B-labs
 ## Scope of Analysis
 The purpose of this analysis is a personal project created so I can explore, learn about and access BCorporation data.
 
-The aim is to explore similarities between industries and business size as well as longitudinal data to confirm increase in bcorp certifications year over year.
+The aim is to explore similarities between industries and business size as well as longitudinal data to confirm increase in B Corp certifications year over year.
 
 The three questions I wish to address are:
 1. What business size are most likely to become BCorps Certified?
 2. What trends can be seen by industries/categories becoming certified over the years?
-3. 
+3. Where are BCorps predominantly located?
 
 ## Tools Used
 - Python
 - Jupyter Notebook
+- PostgreSQL and PGAdmin
 - Sci-Kit Learn - Unsupervised Learning 
 - Tableau
 
@@ -41,14 +42,22 @@ B Corporations must have an overall score of 80 to be listed as a B Corp. The hi
 
 
 
-## Visualization
+## Visualization and Presentation
+<a href="https://docs.google.com/presentation/d/1t-suGFPWUANrffg5ZB7ymyHaEpuBMtLCo4PpjYxcfpI/edit#slide=id.gc6f73a04f_0_0"> Google Slides </a>
 
 <a href="https://public.tableau.com/profile/stephanie.m.juniper#!/vizhome/B_Corp_Study/ClusterDashboard">Interactive Map of BCorp/Cluster</a>
 
+<a href="https://public.tableau.com/app/profile/stephanie.m.juniper/viz/B_Corp_Study/ImpactAreasbyIndustryCountrybyTime">Impact Scores By Industry and Country</a>
+
+
 
 ## Data Source and Inspiration
-B Labs provide a data set through dataworld
+B Labs provide a data set through data.world
 <a href="https://data.world/blab/b-corp-impact-data">here</a>.
+
+## Limitations of the Analysis
+- Small dataset
+- Self Assessed and Inputted, Room for errors and discrepancies
 
 ## Contact information
 Stephanie Juniper
