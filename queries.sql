@@ -2,6 +2,16 @@
 
 SELECT * FROM b_corps_impact;
 
+--Find first company certified that is still certified
+SELECT company_name,
+date_first_certified,
+AVG(overall_score) as "avg_overall_score"
+FROM b_corps_impact
+WHERE current_status ='Certified'
+GROUP BY company_name, date_first_certified, overall_score
+ORDER BY date_first_certified
+LIMIT 1;
+
 -- Select current certified members
 SELECT COUNT(current_status),
 current_status

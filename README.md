@@ -2,12 +2,12 @@
 Analyzing B_corps business data from B-labs
 
 ## Scope of Analysis
-The purpose of this analysis is a personal project created so I can explore, learn about and access BCorporation data.
+The purpose of this analysis is a personal project created so I can explore, learn about and access B Corporation data.
 
-The aim is to explore similarities between industries and business size as well as longitudinal data to confirm increase in B Corp certifications year over year.
+The aim is to explore similarities and differences between industries and business size as well as longitudinal data to confirm increase in B Corp certifications year over year.
 
 The three questions I wish to address are:
-1. What business size are most likely to become BCorps Certified?
+1. What business size are most likely to become B Corps Certified?
 2. What trends can be seen by industries/categories becoming certified over the years?
 3. Where are BCorps predominantly located?
 
@@ -57,20 +57,54 @@ The Workers Impact Area evaluates the company's contribution to its employees fi
 
 ## Analysis
 
-B Labs began certifying businesses in 2007. 
-The first business certified was Mal Warwick Donordigital.
-<img src="Resources/images/first_certified.png"></img>
+To clean my data, I used a jupyter notebook, pandas and python language. I inspected each column for data quality and evaluated which columns could potentially be problematic for drawing conclusions.
 
+I then established a pipeline through PgAdmin using PostgreSQL to continue querying the data and setting up a database for the ML notebook to pull from.
 
+I performed a KMeans analysis on the data, dividing it into 2 clusters
 
-<img src="Resources/images/size_time.png"></img>
+In a separate notebook I have analyzed the components of each business size. 
+
+I also performed SQL queries to visualize the data.
 
 ## Results
+
+To answer the following questions, I have spent some time going through the data
+
+
+The dataset is composed of certified and decertified businesses.
 <img src="Resources/images/current_status.png"></img>
 
+B Labs began certifying businesses in 2007. 
+The first business certified was Mal Warwick Donordigital.
+<img src="Resources/images/first_cert_name.png"></img>
+
+The most businesses were assessed in 2017.
 <img src="Resources/images/yearly_assessed.png"></img>
 
+The most new certifications took place in 2016.
+<img src="Resources/images/size_time.png"></img>
+
+
+1. What business size are most likely to become B Corps Certified?
+
+    - The bulk of the businesses are either small (1-9 employees), medium (10-49 employees) or unknown size. 
+
+<img src="Resources/images/size_percents.png"></img>
+
+2. What industries/categories becoming certified over the years?
+
+    - Business Products and Services and Customer Products and Services make up the most of of the industry categories
+
+ <img src="Resources/images/industry_by_year.png"></img>
+
+
+3. Where are BCorps predominantly located?
+
+    - Of the currently certified businesses, these are the top ten countries for B Corps locations.
+
 <img src="Resources/images/top_countries.png"></img>
+
 
 ## Visualization and Presentation
 <a href="https://docs.google.com/presentation/d/1t-suGFPWUANrffg5ZB7ymyHaEpuBMtLCo4PpjYxcfpI/edit#slide=id.gc6f73a04f_0_0"> Google Slides </a>
@@ -79,7 +113,7 @@ The first business certified was Mal Warwick Donordigital.
 
 <a href="https://public.tableau.com/app/profile/stephanie.m.juniper/viz/B_Corp_Study/ImpactAreasbyIndustryCountrybyTime">Impact Scores By Industry and Country</a>
 
-
+<a href="https://public.tableau.com/app/profile/stephanie.m.juniper/viz/BCorpTrends/SizeTrends">Trends by Business Size</a>
 
 ## Data Source and Inspiration
 B Labs provide a data set through data.world
