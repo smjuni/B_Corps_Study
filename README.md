@@ -35,12 +35,42 @@ An article from Harvard Business Review on why businesses may chose to become B 
 ## Measures of Success
 B Corporations must have an overall score of 80 to be listed as a B Corp. The highest score is 200.
 
+From <a href="https://data.world/blab/b-corp-impact-data">data.world</a>:
+
+### Overall Score
+A company's overall score is based on their answers to roughly 200 questions. A company begins with zero points and earns points incrementally for each indicator of positive outcome/best practice.
+
+### Impact Area - Community
+The Community Impact Area evaluates the company's positive impact on the external communities in which the company operates, covering topics like diversity, economic impact, civic engagement, and supply chain impact.
+
+### Impact Area - Customers
+The Customers Impact Area evaluates the company's value to their direct customers and the consumers of their products or services.
+
+### Impact Area - Environment
+The Environment Impact Area evaluates the company's overall environmental stewardship, including how the company identifies and manages general environmental impacts, air &climate issues, water sustainability, and impacts on land and life
+
+### Impact Area - Governance
+The Governance Impact Area evaluates a company's overall mission, ethics, accountability and transparency
+
+### Impact Area - Workers
+The Workers Impact Area evaluates the company's contribution to its employees financial, physical, professional, and social well-being
+
 ## Analysis
 
+B Labs began certifying businesses in 2007. 
+The first business certified was Mal Warwick Donordigital.
+<img src="Resources/images/first_certified.png"></img>
+
+
+
+<img src="Resources/images/size_time.png"></img>
 
 ## Results
+<img src="Resources/images/current_status.png"></img>
 
+<img src="Resources/images/yearly_assessed.png"></img>
 
+<img src="Resources/images/top_countries.png"></img>
 
 ## Visualization and Presentation
 <a href="https://docs.google.com/presentation/d/1t-suGFPWUANrffg5ZB7ymyHaEpuBMtLCo4PpjYxcfpI/edit#slide=id.gc6f73a04f_0_0"> Google Slides </a>
