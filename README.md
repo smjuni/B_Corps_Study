@@ -73,13 +73,16 @@ To answer the following questions, I have spent some time going through the data
 
 
 The dataset is composed of certified and decertified businesses.
+
 <img src="Resources/images/current_status.png"></img>
 
 B Labs began certifying businesses in 2007. 
 The first business certified was Mal Warwick Donordigital.
+
 <img src="Resources/images/first_cert_name.png"></img>
 
 The most businesses were assessed in 2017.
+
 <img src="Resources/images/yearly_assessed.png"></img>
 
 The most new certifications took place in 2016.
